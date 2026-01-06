@@ -37,7 +37,7 @@ Prática contínua no LeetCode:
 - Grafos (BFS / DFS)  
 **Linguagem principal:** C++  
 
-🔗 [Meu LeetCode](https://leetcode.com/lg2002701/)
+🔗 [Meu LeetCode](https://leetcode.com/u/lg200)
 
 ---
 
